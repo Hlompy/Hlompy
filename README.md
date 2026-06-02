@@ -11,7 +11,7 @@
 I am a Go Developer.
 
 - 🔭 I’m currently working as Go Developer.
-- 📫 How to reach me: [gmail](https://zxchurricane@gmail.com) [telegram](t.me/Hlompy )
+- 📫 How to reach me: [gmail](https://zxchurricane@gmail.com) [telegram](https://t.me/Hlompy )
 
 ---
 # 💻 Tech Stack:
