@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" width="200"/>
 
-  <img src="https://komarev.com/ghpvc/?username=Hlompy&style=flat-square&color=blue" alt=""/>
   <h1>
     Hi there 👋, I'm George.
   </h1>
@@ -12,7 +11,7 @@
 I am a Go Developer.
 
 - 🔭 I’m currently working as Go Developer.
-- 📫 How to reach me: [linkedin](https://www.linkedin.com/in/georgii-kriukov-a53a1a360/) or [gmail](https://zxchurricane@gmail.com)
+- 📫 How to reach me: [gmail](https://zxchurricane@gmail.com) [telegram](t.me/Hlompy )
 
 ---
 # 💻 Tech Stack:
